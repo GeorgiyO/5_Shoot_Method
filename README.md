@@ -1,3 +1,5 @@
+### Shoot method for second order ODE
+
 Main code located at
 /src/model/ShootMethod/index.js
 
